@@ -1,6 +1,6 @@
 # Introduction
 This is my master thesis project in the program of Statistics and Data Science at Leiden Unviersity.
-The thesis includes simulation study and case study. I implemented on Google Colab
+The thesis includes simulation study and case study. I implemented all of the codes on Google Colab
 
 
 # Introduction
