@@ -8,7 +8,7 @@ The thesis includes simulation study and case study. I implemented all of the co
 For the case study, the source data can been seen in the following link:
 https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset?select=diabetesbinary5050splithealthindicatorsBRFSS2015.csv
 
-The file we used is called 'diabetes _ binary _ 5050split _ health _ indicators _ BRFSS2015.csv'.
+There are 3 files and the file we used is called 'diabetes _ binary _ 5050split _ health _ indicators _ BRFSS2015.csv'.
 
 
 # Citation
